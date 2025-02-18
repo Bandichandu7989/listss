@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>working with lists</title>
+</head>
+<body>
+<h1>lists in HTML</h1>
+<h2>Ordered list </h2>
+<ol>
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+</ol>unordered list</h2>
+<ul>
+<li>item A</li>
+<li>item B</li>
+<li>item C</li>
+</ul>
+<h2>nested lists</h2>
+<ul>
+<li>parent items
+<ul>
+<li>child item 1</li>
+<li>child item 2</li>
+</ul>
+</li>
+<li>parent item2
+<ul>
+<li>child item3</li>
+<li>child item4</li>
+</ul>
+</li>
+<ul>
+<h2>Ordered list in an ordered list</h2>
+<ul>
+<li>sub-item1</li>
+<li>sub-item2</li>
+</ol>
+</li>
+<li>catogory2
+<ol>
+<li>sub-item3</li>
+<li>sub-item4</li>
+</ol>
+</li>
+</ul>
+<h2>definition lists</h2>
+<dl>
+<dt>html</dt>
+<dd>hyper text markup language</dd>
+<dt>css</dt>
+<dd>cascadling style sheets</dd>
+<dt>java script</dt>
+<dd>programming language for the web</add>
+</dl>
+</body>
+</html>
